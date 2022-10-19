@@ -1,0 +1,16 @@
+1. Using a blockchain explorer, have a look at the following transactions, what do they do
+   ?
+
+- Tranfer -> From the DaoToken to the DarkDao => a hard fork from the Dao
+- Transfer tokens from F2Pool to Uniswap v2
+- Transfer from a miner address to Polynetwork => Hack attack Defi 600M
+- Hacker sending back most of the money stolen Poly multisig
+- Communication from PolyNetwork and the hacker via transactions
+
+2. What is the largest account balance you can find ?
+   1 0x00000000219ab540356cbb839cbe05303d7705fa Beacon Deposit Contract 14,328,807.00771856 Ether 11.88852228% 228,519
+
+3. What is special about these accounts :
+
+- 0x1db3439a222c519ab44bb1144fc28167b4fa6ee6 : Vitalik Buterin's address
+- 0x000000000000000000000000000000000000dEaD: This address is commonly used by projects to burn tokens (reducing total supply).
